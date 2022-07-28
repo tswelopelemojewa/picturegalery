@@ -38,7 +38,7 @@ const Slider = () => {
                 }
             </div>
 
-            <div class="img-container">
+            <div className="img-container">
                 <img src={sliderData.value} alt="" />
             </div>
         </div>
